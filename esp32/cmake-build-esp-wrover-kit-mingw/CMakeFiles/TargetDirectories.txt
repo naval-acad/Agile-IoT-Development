@@ -1,0 +1,5 @@
+D:/Agile-IoT-Development-1/esp32/cmake-build-esp-wrover-kit-mingw/CMakeFiles/Production.dir
+D:/Agile-IoT-Development-1/esp32/cmake-build-esp-wrover-kit-mingw/CMakeFiles/edit_cache.dir
+D:/Agile-IoT-Development-1/esp32/cmake-build-esp-wrover-kit-mingw/CMakeFiles/Debug.dir
+D:/Agile-IoT-Development-1/esp32/cmake-build-esp-wrover-kit-mingw/CMakeFiles/Z_DUMMY_TARGET.dir
+D:/Agile-IoT-Development-1/esp32/cmake-build-esp-wrover-kit-mingw/CMakeFiles/rebuild_cache.dir

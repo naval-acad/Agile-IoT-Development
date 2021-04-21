@@ -1,0 +1,5 @@
+/cygdrive/d/Agile-IoT-Development-1/esp32/cmake-build-esp-wrover-kit-cygwin/CMakeFiles/edit_cache.dir
+/cygdrive/d/Agile-IoT-Development-1/esp32/cmake-build-esp-wrover-kit-cygwin/CMakeFiles/Z_DUMMY_TARGET.dir
+/cygdrive/d/Agile-IoT-Development-1/esp32/cmake-build-esp-wrover-kit-cygwin/CMakeFiles/Debug.dir
+/cygdrive/d/Agile-IoT-Development-1/esp32/cmake-build-esp-wrover-kit-cygwin/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Agile-IoT-Development-1/esp32/cmake-build-esp-wrover-kit-cygwin/CMakeFiles/Production.dir
